@@ -1,0 +1,15 @@
+{
+  "appId": "in.candleelectric.os",
+  "appName": "Candle OS",
+  "webDir": "www",
+  "server": {
+    "url": "https://os.candleelectric.in",
+    "cleartext": false,
+    "androidScheme": "https",
+    "allowNavigation": ["os.candleelectric.in", "www.google.com", "maps.google.com"]
+  },
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  }
+}
